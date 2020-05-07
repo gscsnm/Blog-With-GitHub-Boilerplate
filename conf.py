@@ -6,16 +6,16 @@
 site_prefix = "/Blog-With-GitHub-Boilerplate/"
 source_dir = "../src/"
 build_dir = "../dist/"
-index_page_size = 10
-archives_page_size = 20
+index_page_size = 15
+archives_page_size = 25
 template = {
     "name": "Galileo",
     "type": "local",
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "gscsnm/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
