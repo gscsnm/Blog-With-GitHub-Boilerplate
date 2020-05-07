@@ -1,7 +1,16 @@
 title: 【翻译系列】libvirt开发指南-Python版-第一章-简介
-date: 2016-09-20  11:02:27
-tags: libvirt;开发指南; 教程; libvirt_Application_Development_Guides
+date: 2016/09/20  11:02:27
+tags: 
+  - libvirt
+  - 开发指南
+  - 教程
+  - libvirt_Application_Development_Guides
 
+
+layout: post
+slug: typography
+status: publish
+author: lyyyyy
 ----
 
 感谢朋友支持本博客，欢迎共同探讨交流。

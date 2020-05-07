@@ -1,7 +1,16 @@
 ---
 title: 【qemu-kvm & libvirt系列】qemu-kvm & KVM & libvirt介绍
 date: 2016-09-20  10:00:27
-tags: libvirt; kvm; qemu-kvm;
+tags: 
+  - libvirt
+  - kvm
+  - qemu-kvm
+
+layout: post
+slug: typography
+status: publish
+author: lyyyyy
+
 ---
 
 感谢朋友支持本博客，欢迎共同探讨交流。
